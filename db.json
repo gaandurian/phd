@@ -1,4 +1,5 @@
-userList = [
+{
+  userList = [
   {
     id: 1,
     photo: getRandomPicture(),
@@ -389,4 +390,4 @@ userList = [
     created_by: "dwilsont",
     locked: true
   }
-];
+]}
