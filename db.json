@@ -1,6 +1,6 @@
 
 {
-  userList: [
+  "userList": [
   {
     "id": 1,
     "photo": "https://source.unsplash.com/featured/face",
